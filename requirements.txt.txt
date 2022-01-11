@@ -1,0 +1,10 @@
+pip install bs4==4.10.0
+pip install lxml==4.7.1
+pip install opencv-python==4.1.1
+pip install tensorflow==1.15
+pip install Cython==0.29.14
+
+git clone https://github.com/thtrieu/darkflow
+cd darkflow
+pip install .
+
